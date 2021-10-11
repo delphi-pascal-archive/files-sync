@@ -1,0 +1,132 @@
+	
+	Programme : Synchronisation de fichiers
+
+===============================================================
+  Section des textes spécifiques à l'application
+===============================================================
+
+[--- Texts for titles ---]
+sTitle_Application    	= Files Sync
+sTitle_MainApplic     	= Synchronisation de fichiers
+sTitle_FormOptions     	= Gestion des options
+
+[--- Texts for menus ---]
+sMenu_OpenSource      	= Ouvrir le fichier côté source
+sMenu_OpenTarget      	= Ouvrir le fichier côté cible
+sMenu_DeleteFiles      	= Supprimer les fichiers sélectionnés
+//
+sMenu_Tools	      	= &Outils
+sMenu_ScanStart	      	= &Lancer la recherche des fichiers
+sMenu_ScanStop	      	= Terminer la recherche des fichiers
+sMenu_Synchro	      	= Synchroniser les fichiers
+sMenu_DispAll		= Afficher tous les fichiers
+sMenu_DispSynchro	= Afficher tous les fichiers à synchroniser
+sMenu_DispToTarget	= Afficher les fichiers à copier vers la destination
+sMenu_DispToSource	= Afficher les fichiers à copier vers la souce
+sMenu_DispIdentical	= Afficher les fichiers identiques.
+sMenu_DelCleanDir		= Supprimer les répertoires vides.
+//
+sMenu_View	      	= &Affichage
+sMenu_CommandBar   	= Paneau de commande
+sMenu_SelectBar    	= Paneau de sélection
+sMenu_StatusBar    	= Barre d'état
+sMenu_TextApplic		= programme 'FilesSync'
+
+[--- Texts for labels ---]
+sLabel_SourcePath		= Chemin source
+sLabel_TargetPath		= Chemin de destination
+sLabel_FileTypes		= Types de fichier
+
+[--- Texts for checkbox ---]
+sCheck_SubFolder		= Sous-répertoires
+
+[--- Texts for checklistbox ---]
+sCLB_ColName		= Nom
+sCLB_ColSize		= Taille
+sCLB_ColModified		= Modifié
+
+[--- Texts for hints ---]
+sHint_ScanStart		= Lancer la recherche des fichiers
+sHint_ScanStop		= Terminer la recherche des fichiers
+sHint_Synchro	      	= Synchroniser les fichiers
+sHint_DispAll		= Afficher tous les fichiers
+sHint_DispSynchro		= Afficher tous les fichiers à synchroniser
+sHint_DispToTarget		= Afficher les fichiers à copier vers la destination
+sHint_DispToSource	= Afficher les fichiers à copier vers la souce
+sHint_DispIdentical		= Afficher les fichiers identiques.
+sHint_DelCleanDir		= Supprimer les répertoires vides.
+sHint_Directory		= Sélectionner un répertoire ...
+
+[--- Texts for messages ---]
+sMsg_ErrDirAccess	= Impossible d'accéder à
+sMsg_FilesOf		= sur 
+sMsg_File		= fichier
+sMsg_Files		= fichiers
+sMsg_FreeSpace		= libres
+sMsg_Folders		= répertoires
+
+// ==== Boîte de dialogue des options générales du programme ====
+[--- Texts for display ---]
+sDisp_Tab		= Affichage
+sDisp_GrpColors		= Choix des couleurs
+sDisp_ColorPair		= Couleur pour lignes paires
+sDisp_ColorImpair		= Couleur pour lignes impaires
+sDisp_ClicMe		= Cliquez pour choisir la couleur
+sDisp_ColorDef		= Couleurs par défaut
+sDisp_ColWidth		= Dimensionnement automatique des colonnes
+
+[--- Texts for history lists ---]
+sHistory_Tab		= Historiques
+sHistory_Choice		= Choix de l'historique
+sHistory_Delete		= Effacer
+sHistory_DeleteAll		= Effacer tout
+
+[--- Texts for compare options ---]
+sCmp_Tab		= Comparaison
+sCmp_NTFS_FAT_Grp	= Pour système de fichiers NTFS-FAT
+sCmp_Ignore_2s		= Ignore 2 secondes de différence
+sCmp_Timezone		= Décalage horaire
+sCmp_ShiftTimeZone	= Décalage horaire pour les fcihiers cibles
+sCmp_Hours		= Heure(s)
+
+// ==== Boîte de dialogue pour la suppression des fichiers ====
+[--- Texts for delete dialogue ---]
+sDel_Title			= Suppression des fichiers
+sDel_FromSource		= pour suppression à partir de la source 
+sDel_FromTarget		= pour suppression à partir de la cible 
+sDel_Confirmation		= Confirmation de suppression
+sDel_MoveRecycle		= Déplacement des fichiers dans la corbeille
+sDel_Progress		= Progression de la suppression
+sDel_ButtonDelete		= Supprimer
+sDel_ButtonStop		= Terminer
+sDel_MsgRecycleFiles	= fichiers à la corbeille ?
+sDel_MsgRecycleOne	= Voulez-vous vaiment envoyer ce fichier à la corbeille ?
+sDel_MsgDeleteOne	= Voulez-vous vaiment supprimer le fichier?
+sDel_MsgRecycleAll	= Voulez-vous vaiment envoyer ces
+sDel_MsgDeleteAll		= Voulez-vous vaiment supprimer ces
+//--- Pour suppression des répertoires vides
+sDel_DirTitle		= Suppression des répertoires vides
+sDel_DirCleanSource	= Répertoires sources vides
+sDel_DirCleanTarget	= Répertoires cibles vides
+sDel_MsgRecycleDir	= répertoires à la corbeille ?
+sDel_MsgRecyOneDir	= Voulez-vous vaiment envoyer ce répertoire à la corbeille ?
+sDel_MsgDelOneDir		= Voulez-vous vaiment supprimer le répertoire?
+
+// ==== Boîte de dialogue pour la synchronisation des fichiers ====
+[--- Texts for synchro dialogue ---]
+sSyn_Title		= Synchronisation des fichiers
+sSyn_FromSource		= à copier de la source vers la cible 
+sSyn_FromTarget		= à copier de la cible vers la source 
+sSyn_DirSource		= Répertoire source
+sSyn_DirTarget		= Répertoire cible
+sSyn_FileName		= Nom du fichier
+sSyn_BarProgressFile	= Progression du fichier
+sSyn_BarProgress		= Progression totale
+sSyn_ButtonSync		= Synchroniser 
+sSyn_ButtonStop		= Terminer
+sSyn_NotSpaceTitle	= Manque d'espace libre
+sSyn_NotSpaceSource	= Il n'y a pas assez d'espace libre sur l'unité source
+sSyn_NotSpaceTarget	= Il n'y a pas assez d'espace libre sur l'unité cible
+sSyn_NotSpaceSource80	= Dépassement du 80% de la place disponible sur l'unité source
+sSyn_NotSpaceTarget80	= Dépassement du 80% de la place disponible sur l'unité cible
+sSyn_ConfirmSynchro	= Voulez-vous tout de même lancer la synchronisation ?

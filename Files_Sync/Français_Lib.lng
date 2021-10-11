@@ -1,0 +1,153 @@
+
+===============================================================
+  Section des textes des sources de la librairie
+===============================================================
+
+[--- Texts standards for menus ---]
+sMenu_Password	= &Mot de passe ...
+sMenu_File    	= &Fichier
+sMenu_New	= &Nouveau
+sMenu_Open	= &Ouvrir ...
+sMenu_Import	= &Importer ...
+sMenu_Save	= &Enregistrer
+sMenu_SaveTo	= &Enregistrer sous ...
+sMenu_Delete	= &Supprimer ...
+sMenu_View	= &Aperçu ...
+sMenu_Print	= &Imprimer ...
+sMenu_Config	= &Configurer ...
+sMenu_Options	= &Options ...
+sMenu_Quit	= &Quitter
+sMenu_Help  	= &Aide
+sMenu_HelpTo	= &Aide sur :
+sMenu_About	= A &propos du
+
+[--- Texts standards for buttons ---]
+sBut_Password	= &Mot de passe
+sBut_New	= &Nouveau
+sBut_Open	= &Ouvrir ...
+sBut_Import	= &Importer ...
+sBut_Save	= &Enregistrer
+sBut_View	= &Aperçu ...
+sBut_Delete	= &Supprimer ...
+sBut_Print	= &Imprimer ...
+sBut_Config	= &Configurer
+sBut_Accept	= &Accepter
+sBut_Close	= &Fermer
+sBut_Quit		= &Quitter
+sBut_Cancel	= &Annuler
+
+[--- Texts standards for hints ---]
+sHint_Open	= Ouvrir ...
+sHint_Import	= Importer ...
+sHint_Save	= Enregistrer
+sHint_SaveTo	= Enregistrer sous ...
+sHint_Print	= Imprimer ...
+sHint_Options	= Configuration des options....
+sHint_Quit	= Quitter le programme
+
+[--- Texts for messages ---]
+sMsg_Wait	= Veuillez patienter S. V. P.
+
+[--- Texts for FormPassword ---]
+sPass_Title	= Mot de passe
+sPass_Text	= Mot de passe
+sPass_Rights1	= Vous n'avez pas
+sPass_Rights2	= les droits d'utilisation !
+
+[--- Texts for FormAbout ---]
+sAbout_Title	= A propos
+sAbout_Version	= Version
+sAbout_DevName	= Programme développé par
+sAbout_EmailObj	= Concerne le
+
+[--- Texts for FormAlertMsg ---]
+sAlert_Title	= Alerte !
+
+[--- Texts for FormSelectDir ---]
+sSelDir_Title	= Sélection d'un répertoire
+sSelDir_Select	= Choisir un répertoire dans la liste
+
+[--- Texts for preview ---]
+sPrv_Title      	= Aperçu / impression 
+sPrv_Lbl_Zoom   	= Zoom
+sPrv_Lbl_Format    	= Format
+sPrv_Lbl_Unit      	= Unité
+sPrv_Cmb_Boundary  	= Montrer la zone imprimable
+sPrv_Cmb_HarCopy   	= Impression directe
+sPrv_Cmb_Fast	   	= Impression rapide
+sPrv_But_Save  	   	= &Enregistrer sous...
+sPrv_But_Open	   	= &Ouvrir...
+sPrv_But_Print	   	= &Imprimer...
+sPrv_But_Exit 	   	= &Quitter
+sPrv_Txt_Saving    	= Enregistrement du fichier...
+sPrv_Txt_Loading   	= Chargement du fichier...
+sPrv_Txt_CreatePage   	= Création des pages...
+sPrv_Txt_PrintPrepare  	= Préparation pour l'impression...
+sPrv_Txt_PrintPage  	= Impression de la page
+sPrv_Txt_Of	  	= de
+sPrv_Txt_Done	  	= exécuté
+sPrv_Txt_Page	  	= Page
+
+[--- Texts for preview cfg ---]
+sPrvCfg_Title      	= Configuration de l'aperçu
+sPrvCfg_Toolbar		= Barre d'outils
+sPrvCfg_GrpPanels	= Groupes d'affichage
+sPrvCfg_Thumb		= Miniatures
+sPrvCfg_Navigator	= Navigateur de pages
+sPrvCfg_ToolBar		= Barre d'impression 
+sPrvCfg_PrintBar	= Barre d'impression 
+sPrvCfg_GrpToolBar	= Composants de la barre d'outils
+sPrvCfg_Zoom		= Zoom de l'affichage
+sPrvCfg_Paper		= Format du papier
+sPrvCfg_Orient		= Oritation de la feuille
+sPrvCfg_Boundary	= Zone imprimable
+sPrvCfg_Unit		= Unités de mesure
+sPrvCfg_GrpPrintBar	= Composants de la barre d'impression
+sPrvCfg_Open		= Ouvrir un fichier 
+sPrvCfg_Save		= Enregistrer le fichier 
+sPrvCfg_Print		= Imprimer le fichier 
+sPrvCfg_Quit		= Quitter la visualistion
+sPrvCfg_Hardcopy	= Impression directe
+sPrvCfg_FastPrint	= Impression rapide
+
+[--- Texts for months short ---]
+1   = Jan
+2   = Fév
+3   = Mar
+4   = Avr
+5   = Mai
+6   = Jun
+7   = Jui
+8   = Aoû
+9   = Sep
+10  = Oct
+11  = Nov
+12  = Déc
+
+[--- Texts for months Long ---]
+1   = Janvier
+2   = février
+3   = Mars
+4   = Avril
+5   = Mai
+6   = Juin
+7   = Juillet
+8   = Août
+9   = Septembre
+10  = Octobre
+11  = Novembre
+12  = Décembre
+
+[--- Texts for zoom ---]
+0   = 50%
+1   = 100%
+2   = 150%
+3   = 200%
+4   = Largeur de page
+5   = Hauteur de page
+6   = Page entière
+
+[--- Texts for Skins ---]
+sSkins_Skin	= Apparence
+sSkins_Choice	= Choix de l'apparence ...
+sSkins_Normal	= Apparence normale
